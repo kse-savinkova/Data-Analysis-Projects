@@ -43,9 +43,17 @@
 <br>
 **Результат:** Рекомендации бизнесу основанные на проверке гипотез и определении статистически значимого результата.<br>
 
+## Tableau Vizzes
+<br>
+Мой аккаунт Tableau Public: [kseniia.savinkova](https://public.tableau.com/app/profile/kseniia.savinkova#!/)
 
-### Tableau Vizzes
-Мой аккаунт Tableau Public: [kseniia.savinkova](https://public.tableau.com/app/profile/kseniia.savinkova#!/)  
+### My First 10 km Run
+**Viz:** [`my_first_run`](https://public.tableau.com/app/profile/kseniia.savinkova/viz/Myfirst10km/Dashboard1)<br>
+<br>
+**Описание:** Дашборд-открытка-на-память отражает забег на 10 км, состоявшийся в Москве 18 сентября 2022 года и содержит информацию о всех участниках забега <br>
+<br>
+**Навыки:** Python, Parsing, Tableau.<br>
+<br>
  
 
 
