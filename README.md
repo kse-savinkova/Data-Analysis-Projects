@@ -17,7 +17,14 @@
 <br>
 **Навыки:** Python, Pandas, Plotly, Scipy Stats, T-test, ABC-XYZ-analysis, Tableau.<br>
 <br>
-**Результат:** Разбили товарный ассортимент на категории, внутри каждой выделили основной и дополнительный товарный ассортимент.<br>
+### SQL Project
+**Проект:** [`project_SQL.ipynb`](https://github.com/kse-savinkova/Data_Analysis_Portfolio/blob/main/YP_project_SQL.ipynb)<br>
+<br>
+**Описание:** Анализ базы данных посредством SQL<br>
+<br>
+**Навыки:** Python, Pandas, Sqlalchemy, SQL.<br>
+<br>
+**Результат:** Решение 5 задач-вопросов поставленных перед исследованием, ответы на которые характеризуют имеющуюся базу данных .<br>
 ### Recommender System Test
 **Проект:** [`ab_experiment.ipynb`](https://github.com/kse-savinkova/Data_Analysis_Portfolio/blob/main/YP_ab_experiment.ipynb)<br>
 <br>
