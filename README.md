@@ -10,6 +10,14 @@
 ## Portfolio Projects
 В этом разделе я собрала проекты по анализу данных, их краткое описание и указала hard skills, используемые при решении этих кейсов.
 
+### Product Range Analysis
+**Проект:** [`abc_xyz_analysis.ipynb`](https://github.com/kse-savinkova/Data_Analysis_Portfolio/blob/main/YP_abc_xyz_analysis.ipynb)<br>
+<br>
+**Описание:** Анализ товарного ассортимента на основе транзакций интернет-магазина товаров для дома, цель исследования выделить основные и дополнительные товарные позиции. Проект включает в себя следующие этапы: предобработка данных, исследовательский анализ данных, ABC-XYZ-анализ товарного ассортимента, проверка статистических гипотез. <br>
+<br>
+**Навыки:** Python, Pandas, Plotly, Scipy Stats, T-test, ABC-XYZ-analysis.<br>
+<br>
+**Результат:** Анализ рынка видеоигр: глобальный и на уровне регионов, рекомендации бизнесу на основании проведенного анализа.<br>
 ### Video Games Sales Analysis
 **Проект:** [`games_sales.ipynb`](https://github.com/kse-savinkova/Data-Analysis-Projects/blob/main/YP_games_sales.ipynb)<br>
 <br>
@@ -19,7 +27,7 @@
 <br>
 **Результат:** Анализ рынка видеоигр: глобальный и на уровне регионов, рекомендации бизнесу на основании проведенного анализа.<br>
 ### Font Design Experiment
-**Проект:** [`aab_experiment.ipynb`](https://github.com/kse-savinkova/Data-Analysis-Projects/blob/main/YP_ab_experiment.ipynb)<br>
+**Проект:** [`aab_experiment.ipynb`](https://github.com/kse-savinkova/Data_Analysis_Portfolio/blob/main/YP_ab_experiment.ipynb)<br>
 <br>
 **Описание:** Изучение воронки продаж мобильного приложения стартапа, занимающегося продажей продуктов питания, исследование результатов А/А/В-теста.<br>
 <br>
