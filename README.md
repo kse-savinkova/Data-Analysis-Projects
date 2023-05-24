@@ -11,8 +11,6 @@
 
 
 ## Tableau Vizzes
-<br>
-Мой аккаунт Tableau Public: [kseniia savinkova](https://public.tableau.com/app/profile/kseniia.savinkova#!/)
 
 ### My First 10 km Run
 **Viz:** [`my_first_run`](https://public.tableau.com/app/profile/kseniia.savinkova/viz/Myfirst10km/Dashboard1)<br>
